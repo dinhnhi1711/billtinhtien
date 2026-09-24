@@ -25,7 +25,7 @@ menu = {
     "Thức uống": {
         "Coca Cola": 20000,
         "Trà Đào Cam Sả": 35000,
-        "Dừa tươi": 25000
+        "Dừa tươi": 25000,
         "Cà Phê Sữa": 25000,
         "Nước Suối": 10000,
         "Sinh tố Bơ": 45000,
