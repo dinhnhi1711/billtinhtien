@@ -19,11 +19,13 @@ menu = {
         "Sườn nướng BBQ": 180000,
         "Cánh gà chiên mắm": 75000,
         "Lẩu cá diêu hồng": 200000,
+        "Lẩu cua đồng": 250000,
         "Lẩu Thái hải sản": 300000,
     },
     "Thức uống": {
         "Coca Cola": 20000,
         "Trà Đào Cam Sả": 35000,
+        "Dừa tươi": 25000
         "Cà Phê Sữa": 25000,
         "Nước Suối": 10000,
         "Sinh tố Bơ": 45000,
